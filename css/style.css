@@ -9,7 +9,7 @@
 }
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #c09648 16.62%, #698150 85.61%);
+    background: linear-gradient(68.15deg, #48b2c0 16.62%, #0b6dbd 85.61%);
 }
 
 /*header*/
@@ -120,9 +120,10 @@ body{
 }
 .contato{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    padding: 14px;
 }
 .rodape-imagem{
     display: flex;
